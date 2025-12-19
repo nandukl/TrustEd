@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Test Certificate Upload</title>
+</head>
+<body>
+    <h1>Test Certificate Upload</h1>
+    <form id="uploadForm">
+        <input type="file" id="fileInput" accept=".png,.jpg,.jpeg,.pdf" required>
+        <button type="submit">Upload Certificate</button>
+    </form>
+    <div id="result"></div>
+
+    <script>
+        document.getElementById('uploadForm').addEventListener('submit', async function(e) {
+            e.preventDefault();
+            
+            const fileInput = document.getElementById('fileInput');
+            const file = fileInput.files[0];
+            
+            if (!file) {
+                document.getElementById('result').innerHTML = 'Please select a file';
+                return;
+            }
+            
+            // First, login to get token
+            const loginResponse = await fetch('http://127.0.0.1:8000/login', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify({
+                    email: 'verifier@trusted.dev',
+                    password: 'verify123'
+                })
+            });
+            
+            if (!loginResponse.ok) {
+                document.getElementById('result').innerHTML = 'Login failed';
+                return;
+            }
+            
+            const loginData = await loginResponse.json();
+            const token = loginData.token;
+            
+            // Now upload the file
+            const formData = new FormData();
+            formData.append('file', file);
+            
+            const uploadResponse = await fetch('http://127.0.0.1:8000/verify', {
+                method: 'POST',
+                headers: {
+                    'Authorization': `Bearer ${token}`
+                },
+                body: formData
+            });
+            
+            const resultDiv = document.getElementById('result');
+            if (uploadResponse.ok) {
+                const data = await uploadResponse.json();
+                resultDiv.innerHTML = '<pre>' + JSON.stringify(data, null, 2) + '</pre>';
+            } else {
+                const errorText = await uploadResponse.text();
+                resultDiv.innerHTML = '<p style="color: red;">Error: ' + uploadResponse.status + ' - ' + errorText + '</p>';
+            }
+        });
+    </script>
+</body>
+</html>

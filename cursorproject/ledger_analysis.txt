@@ -1,0 +1,407 @@
+﻿================================================================================
+BLOCKCHAIN LEDGER ANALYSIS
+================================================================================
+
+[OK] Ledger file exists: backend/db/ledger.txt
+File size: 38501 bytes
+
+Total lines in ledger: 78
+
+================================================================================
+CERTIFICATE HASHES IN BLOCKCHAIN:
+================================================================================
+
+[CERT #1] Line 18:
+   Student: Unknown Name
+   Institution: Unknown Institution
+   Year: 0
+   Certificate ID: AUTO-88192
+   File Hash: N/A
+   Uploaded by: institution@trusted.dev
+   Upload date: 2025-10-02T17:00:20.468102Z
+
+[CERT #2] Line 21:
+   Student: Unknown Name
+   Institution: Unknown Institution
+   Year: 0
+   Certificate ID: AUTO-31535
+   File Hash: N/A
+   Uploaded by: institution@trusted.dev
+   Upload date: 2025-10-02T17:02:16.086007Z
+
+[CERT #3] Line 29:
+   Student: Unknown Name
+   Institution: Unknown Institution
+   Year: 2025
+   Certificate ID: AUTO-96846
+   File Hash: d122acb39b78ba92514d21f4b37bb030b9775004b1013d807ce7ea941ab8a9d0
+   Uploaded by: institution@trusted.dev
+   Upload date: 2025-10-18T07:58:31.398974Z
+
+[CERT #4] Line 31:
+   Student: Unknown Name
+   Institution: Unknown Institution
+   Year: 2025
+   Certificate ID: AUTO-55771
+   File Hash: d122acb39b78ba92514d21f4b37bb030b9775004b1013d807ce7ea941ab8a9d0
+   Uploaded by: institution@trusted.dev
+   Upload date: 2025-10-18T08:05:28.879685Z
+
+[CERT #5] Line 33:
+   Student: Unknown Name
+   Institution: Unknown Institution
+   Year: 2025
+   Certificate ID: AUTO-29320
+   File Hash: d122acb39b78ba92514d21f4b37bb030b9775004b1013d807ce7ea941ab8a9d0
+   Uploaded by: institution@trusted.dev
+   Upload date: 2025-10-18T08:11:39.070282Z
+
+[CERT #6] Line 35:
+   Student: Unknown Name
+   Institution: Unknown Institution
+   Year: 2025
+   Certificate ID: AUTO-74208
+   File Hash: d122acb39b78ba92514d21f4b37bb030b9775004b1013d807ce7ea941ab8a9d0
+   Uploaded by: institution@trusted.dev
+   Upload date: 2025-10-18T08:12:37.549037Z
+
+[CERT #7] Line 36:
+   Student: Unknown Name
+   Institution: Unknown Institution
+   Year: 2025
+   Certificate ID: AUTO-36854
+   File Hash: bc9df54473c60fb2b20805fbd2740b77558fc1b06e8449762210970ea504302a
+   Uploaded by: institution@trusted.dev
+   Upload date: 2025-10-18T08:12:58.639255Z
+
+[CERT #8] Line 38:
+   Student: Unknown Name
+   Institution: Unknown Institution
+   Year: 2025
+   Certificate ID: AUTO-45699
+   File Hash: d9298a2c6bf560c50df0ded372708ce0bf2a0cdcba11b25b0134f42ba64e4ecb
+   Uploaded by: institution@trusted.dev
+   Upload date: 2025-10-18T08:28:45.245647Z
+
+[CERT #9] Line 39:
+   Student: Unknown Name
+   Institution: Unknown Institution
+   Year: 2025
+   Certificate ID: AUTO-59969
+   File Hash: d9298a2c6bf560c50df0ded372708ce0bf2a0cdcba11b25b0134f42ba64e4ecb
+   Uploaded by: institution@trusted.dev
+   Upload date: 2025-10-18T08:31:46.942403Z
+
+[CERT #10] Line 40:
+   Student: Unknown Name
+   Institution: Unknown Institution
+   Year: 2025
+   Certificate ID: AUTO-99596
+   File Hash: d9298a2c6bf560c50df0ded372708ce0bf2a0cdcba11b25b0134f42ba64e4ecb
+   Uploaded by: institution@trusted.dev
+   Upload date: 2025-10-18T08:32:24.644912Z
+
+[CERT #11] Line 42:
+   Student: Unknown Name
+   Institution: Unknown Institution
+   Year: 2025
+   Certificate ID: AUTO-20197
+   File Hash: d9298a2c6bf560c50df0ded372708ce0bf2a0cdcba11b25b0134f42ba64e4ecb
+   Uploaded by: institution@trusted.dev
+   Upload date: 2025-10-18T08:33:19.329454Z
+
+[CERT #12] Line 45:
+   Student: Unknown Name
+   Institution: Unknown Institution
+   Year: 2025
+   Certificate ID: AUTO-86951
+   File Hash: d9298a2c6bf560c50df0ded372708ce0bf2a0cdcba11b25b0134f42ba64e4ecb
+   Uploaded by: institution@trusted.dev
+   Upload date: 2025-10-18T08:36:01.890204Z
+
+[CERT #13] Line 46:
+   Student: Unknown Name
+   Institution: Unknown Institution
+   Year: 2025
+   Certificate ID: AUTO-32078
+   File Hash: d9298a2c6bf560c50df0ded372708ce0bf2a0cdcba11b25b0134f42ba64e4ecb
+   Uploaded by: institution@trusted.dev
+   Upload date: 2025-10-18T08:37:05.240828Z
+
+[CERT #14] Line 47:
+   Student: Unknown Name
+   Institution: Unknown Institution
+   Year: 2025
+   Certificate ID: AUTO-27105
+   File Hash: d9298a2c6bf560c50df0ded372708ce0bf2a0cdcba11b25b0134f42ba64e4ecb
+   Uploaded by: institution@trusted.dev
+   Upload date: 2025-10-18T08:38:27.980370Z
+
+[CERT #15] Line 48:
+   Student: Unknown Name
+   Institution: Unknown Institution
+   Year: 2025
+   Certificate ID: AUTO-57433
+   File Hash: d9298a2c6bf560c50df0ded372708ce0bf2a0cdcba11b25b0134f42ba64e4ecb
+   Uploaded by: institution@trusted.dev
+   Upload date: 2025-10-18T08:42:24.926878Z
+
+[CERT #16] Line 49:
+   Student: Unknown Name
+   Institution: Unknown Institution
+   Year: 2025
+   Certificate ID: AUTO-67773
+   File Hash: d9298a2c6bf560c50df0ded372708ce0bf2a0cdcba11b25b0134f42ba64e4ecb
+   Uploaded by: institution@trusted.dev
+   Upload date: 2025-10-18T08:42:38.965038Z
+
+[CERT #17] Line 50:
+   Student: Unknown Name
+   Institution: Unknown Institution
+   Year: 2025
+   Certificate ID: AUTO-26943
+   File Hash: d9298a2c6bf560c50df0ded372708ce0bf2a0cdcba11b25b0134f42ba64e4ecb
+   Uploaded by: institution@trusted.dev
+   Upload date: 2025-10-18T08:43:02.392118Z
+
+[CERT #18] Line 51:
+   Student: Unknown Name
+   Institution: Unknown Institution
+   Year: 2025
+   Certificate ID: AUTO-70798
+   File Hash: d9298a2c6bf560c50df0ded372708ce0bf2a0cdcba11b25b0134f42ba64e4ecb
+   Uploaded by: institution@trusted.dev
+   Upload date: 2025-10-18T08:43:26.645907Z
+
+[CERT #19] Line 52:
+   Student: Unknown Name
+   Institution: Unknown Institution
+   Year: 2025
+   Certificate ID: AUTO-72320
+   File Hash: d9298a2c6bf560c50df0ded372708ce0bf2a0cdcba11b25b0134f42ba64e4ecb
+   Uploaded by: institution@trusted.dev
+   Upload date: 2025-10-18T08:43:36.286280Z
+
+[CERT #20] Line 53:
+   Student: Unknown Name
+   Institution: Unknown Institution
+   Year: 2025
+   Certificate ID: AUTO-85609
+   File Hash: d9298a2c6bf560c50df0ded372708ce0bf2a0cdcba11b25b0134f42ba64e4ecb
+   Uploaded by: institution@trusted.dev
+   Upload date: 2025-10-18T08:47:18.781112Z
+
+[CERT #21] Line 54:
+   Student: Unknown Name
+   Institution: Unknown Institution
+   Year: 2025
+   Certificate ID: AUTO-53928
+   File Hash: d9298a2c6bf560c50df0ded372708ce0bf2a0cdcba11b25b0134f42ba64e4ecb
+   Uploaded by: institution@trusted.dev
+   Upload date: 2025-10-18T08:48:35.405558Z
+
+[CERT #22] Line 55:
+   Student: Unknown Name
+   Institution: Unknown Institution
+   Year: 2025
+   Certificate ID: AUTO-12380
+   File Hash: d9298a2c6bf560c50df0ded372708ce0bf2a0cdcba11b25b0134f42ba64e4ecb
+   Uploaded by: institution@trusted.dev
+   Upload date: 2025-10-18T08:49:22.516147Z
+
+[CERT #23] Line 56:
+   Student: Unknown Name
+   Institution: Unknown Institution
+   Year: 2025
+   Certificate ID: AUTO-16458
+   File Hash: d9298a2c6bf560c50df0ded372708ce0bf2a0cdcba11b25b0134f42ba64e4ecb
+   Uploaded by: institution@trusted.dev
+   Upload date: 2025-10-18T08:49:42.378612Z
+
+[CERT #24] Line 57:
+   Student: Unknown Name
+   Institution: Unknown Institution
+   Year: 2025
+   Certificate ID: AUTO-51538
+   File Hash: d9298a2c6bf560c50df0ded372708ce0bf2a0cdcba11b25b0134f42ba64e4ecb
+   Uploaded by: institution@trusted.dev
+   Upload date: 2025-10-18T08:51:21.647482Z
+
+[CERT #25] Line 58:
+   Student: Unknown Name
+   Institution: Unknown Institution
+   Year: 2025
+   Certificate ID: AUTO-75949
+   File Hash: d9298a2c6bf560c50df0ded372708ce0bf2a0cdcba11b25b0134f42ba64e4ecb
+   Uploaded by: institution@trusted.dev
+   Upload date: 2025-10-18T08:54:28.765731Z
+
+[CERT #26] Line 59:
+   Student: Unknown Name
+   Institution: Unknown Institution
+   Year: 2025
+   Certificate ID: AUTO-18735
+   File Hash: d9298a2c6bf560c50df0ded372708ce0bf2a0cdcba11b25b0134f42ba64e4ecb
+   Uploaded by: institution@trusted.dev
+   Upload date: 2025-10-18T08:55:05.053651Z
+
+[CERT #27] Line 60:
+   Student: Unknown Name
+   Institution: Unknown Institution
+   Year: 2025
+   Certificate ID: AUTO-88079
+   File Hash: d9298a2c6bf560c50df0ded372708ce0bf2a0cdcba11b25b0134f42ba64e4ecb
+   Uploaded by: institution@trusted.dev
+   Upload date: 2025-10-18T08:55:14.033585Z
+
+[CERT #28] Line 61:
+   Student: Unknown Name
+   Institution: Unknown Institution
+   Year: 2025
+   Certificate ID: AUTO-91838
+   File Hash: d9298a2c6bf560c50df0ded372708ce0bf2a0cdcba11b25b0134f42ba64e4ecb
+   Uploaded by: institution@trusted.dev
+   Upload date: 2025-10-18T08:56:00.729978Z
+
+[CERT #29] Line 62:
+   Student: Unknown Name
+   Institution: Unknown Institution
+   Year: 2025
+   Certificate ID: AUTO-70625
+   File Hash: d9298a2c6bf560c50df0ded372708ce0bf2a0cdcba11b25b0134f42ba64e4ecb
+   Uploaded by: institution@trusted.dev
+   Upload date: 2025-10-18T08:56:20.555612Z
+
+[CERT #30] Line 63:
+   Student: Unknown Name
+   Institution: Unknown Institution
+   Year: 2025
+   Certificate ID: AUTO-70110
+   File Hash: d9298a2c6bf560c50df0ded372708ce0bf2a0cdcba11b25b0134f42ba64e4ecb
+   Uploaded by: institution@trusted.dev
+   Upload date: 2025-10-18T09:01:33.643149Z
+
+[CERT #31] Line 64:
+   Student: Unknown Name
+   Institution: Unknown Institution
+   Year: 2025
+   Certificate ID: AUTO-82236
+   File Hash: d9298a2c6bf560c50df0ded372708ce0bf2a0cdcba11b25b0134f42ba64e4ecb
+   Uploaded by: institution@trusted.dev
+   Upload date: 2025-10-18T09:09:00.379081Z
+
+[CERT #32] Line 65:
+   Student: Unknown Name
+   Institution: Unknown Institution
+   Year: 2025
+   Certificate ID: AUTO-98073
+   File Hash: d9298a2c6bf560c50df0ded372708ce0bf2a0cdcba11b25b0134f42ba64e4ecb
+   Uploaded by: institution@trusted.dev
+   Upload date: 2025-10-18T09:10:45.825219Z
+
+[CERT #33] Line 66:
+   Student: Unknown Name
+   Institution: Unknown Institution
+   Year: 2025
+   Certificate ID: AUTO-57616
+   File Hash: d9298a2c6bf560c50df0ded372708ce0bf2a0cdcba11b25b0134f42ba64e4ecb
+   Uploaded by: institution@trusted.dev
+   Upload date: 2025-10-18T09:11:33.646475Z
+
+[CERT #34] Line 67:
+   Student: Unknown Name
+   Institution: Unknown Institution
+   Year: 2025
+   Certificate ID: AUTO-99041
+   File Hash: d9298a2c6bf560c50df0ded372708ce0bf2a0cdcba11b25b0134f42ba64e4ecb
+   Uploaded by: institution@trusted.dev
+   Upload date: 2025-10-18T09:12:43.038042Z
+
+[CERT #35] Line 68:
+   Student: John Doe
+   Institution: Example University
+   Year: 2023
+   Certificate ID: CERT-001
+   File Hash: d9298a2c6bf560c50df0ded372708ce0bf2a0cdcba11b25b0134f42ba64e4ecb
+   Uploaded by: institution@trusted.dev
+   Upload date: 2025-10-18T09:13:40.074714Z
+
+[CERT #36] Line 69:
+   Student: Unknown Name
+   Institution: Unknown Institution
+   Year: 2025
+   Certificate ID: AUTO-59945
+   File Hash: d9298a2c6bf560c50df0ded372708ce0bf2a0cdcba11b25b0134f42ba64e4ecb
+   Uploaded by: institution@trusted.dev
+   Upload date: 2025-10-18T09:13:53.864990Z
+
+[CERT #37] Line 70:
+   Student: Unknown Name
+   Institution: Unknown Institution
+   Year: 2025
+   Certificate ID: AUTO-44707
+   File Hash: d9298a2c6bf560c50df0ded372708ce0bf2a0cdcba11b25b0134f42ba64e4ecb
+   Uploaded by: institution@trusted.dev
+   Upload date: 2025-10-18T09:14:33.604939Z
+
+[CERT #38] Line 71:
+   Student: Unknown Name
+   Institution: Unknown Institution
+   Year: 2025
+   Certificate ID: AUTO-75311
+   File Hash: d9298a2c6bf560c50df0ded372708ce0bf2a0cdcba11b25b0134f42ba64e4ecb
+   Uploaded by: institution@trusted.dev
+   Upload date: 2025-10-18T09:14:55.885390Z
+
+[CERT #39] Line 72:
+   Student: Unknown Name
+   Institution: Unknown Institution
+   Year: 2025
+   Certificate ID: AUTO-55961
+   File Hash: d9298a2c6bf560c50df0ded372708ce0bf2a0cdcba11b25b0134f42ba64e4ecb
+   Uploaded by: institution@trusted.dev
+   Upload date: 2025-10-18T09:15:19.551872Z
+
+[CERT #40] Line 73:
+   Student: Unknown Name
+   Institution: Unknown Institution
+   Year: 2025
+   Certificate ID: AUTO-87118
+   File Hash: d9298a2c6bf560c50df0ded372708ce0bf2a0cdcba11b25b0134f42ba64e4ecb
+   Uploaded by: institution@trusted.dev
+   Upload date: 2025-10-18T09:15:56.700960Z
+
+[CERT #41] Line 74:
+   Student: John Doe
+   Institution: Example University
+   Year: 2023
+   Certificate ID: CERT-001
+   File Hash: 6b9d799499099ff2d8ec1ff40b38c2e9308cd86dd4d10d1363f08405dd54ee9e
+   Uploaded by: institution@trusted.dev
+   Upload date: 2025-12-16T14:20:59.705879Z
+
+[CERT #42] Line 77:
+   Student: John Doe
+   Institution: Example University
+   Year: 2023
+   Certificate ID: CERT-001
+   File Hash: 6b9d799499099ff2d8ec1ff40b38c2e9308cd86dd4d10d1363f08405dd54ee9e
+   Uploaded by: institution@trusted.dev
+   Upload date: 2025-12-16T14:35:42.716605Z
+
+================================================================================
+SUMMARY: Found 42 certificates in blockchain
+================================================================================
+
+
+YOUR CERTIFICATE HASH FROM SCREENSHOT:
+6b9d79949909ff2d8ec1ff40b38c2e9308cd86dd4d10d1363f08405dd54ee9e
+
+Searching for this hash in the ledger...
+
+[NOT FOUND!] This hash does not exist in the blockchain ledger.
+
+Possible reasons:
+1. The certificate was not uploaded successfully
+2. The ledger file was cleared or reset
+3. There's a mismatch in how the hash is being computed
