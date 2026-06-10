@@ -76,6 +76,8 @@ class VerificationReport(BaseModel):
 	institution_match: Optional[Dict[str, Any]] = None
 	file_hash: str
 	created_at: str  # ISO
+	verified: bool
+	certificate: Optional[Dict[str, Any]] = None
 
 
 class VerificationListResponse(BaseModel):
@@ -236,6 +238,8 @@ async def verify_certificate(
         "blockchain_verified": blockchain_record is not None,
         "file_hash": file_hash_hex,
         "created_at": datetime.utcnow().isoformat() + "Z",
+        "verified": status == "valid",
+        "certificate": blockchain_record.get("certificate_data") if blockchain_record else None
     }
 
     # Save to verifications "table"

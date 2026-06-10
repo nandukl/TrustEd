@@ -3,7 +3,7 @@ echo Starting TrustEd - Smart Fake Degree Recognition System
 echo.
 
 echo Starting Backend Server...
-start "Backend" /D "backend" cmd /k "python -m uvicorn main:app --reload"
+start "Backend" /D "backend" cmd /k ".\.venv\Scripts\python.exe -m uvicorn main:app --reload"
 
 timeout /t 5 /nobreak >nul
 

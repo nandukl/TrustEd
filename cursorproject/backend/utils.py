@@ -67,7 +67,7 @@ def verify_certificate_hash(ledger_path: str, file_hash: str) -> Optional[Dict[s
                 
                 logging.info(f"Line {line_num}: Found hash = {block_hash}")
                 
-                if block_hash == file_hash:
+                if block_hash == file_hash and "certificate_data" in block:
                     logging.info(f"✅ MATCH FOUND on line {line_num}!")
                     return block
             except Exception as e:
